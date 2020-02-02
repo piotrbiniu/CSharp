@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp7", "ConsoleApp7\ConsoleApp7.csproj", "{63A3E6C0-A524-4F69-A36A-B786FD629597}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dzienniczek Ucznia", "Dzienniczek Ucznia\Dzienniczek Ucznia.csproj", "{D236B7CA-0A9B-471B-AA51-A9E172999C3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{63A3E6C0-A524-4F69-A36A-B786FD629597}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63A3E6C0-A524-4F69-A36A-B786FD629597}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63A3E6C0-A524-4F69-A36A-B786FD629597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D236B7CA-0A9B-471B-AA51-A9E172999C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D236B7CA-0A9B-471B-AA51-A9E172999C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D236B7CA-0A9B-471B-AA51-A9E172999C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D236B7CA-0A9B-471B-AA51-A9E172999C3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
